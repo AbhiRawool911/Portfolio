@@ -4,11 +4,11 @@ Welcome to my portfolio, a representation of my skills, education, projects, and
 ### Portfolio Link : Visit my portfolio website [here](https://abhishek-rawool.netlify.app) to explore further.
 
 ## Highlighted below are some visual aspects of my Portfolio:
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/24c40fd7-fc59-4e2e-8873-bc16121eae88"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/e559ba88-85be-43e5-9b5b-ab0cbc1592a3"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/2dc69f6e-6385-46ac-bd29-961e0cb9e970"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/10983215-b99f-477c-b3a0-d7b246ffe001"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/28d42190-fd01-4aaf-ba64-58af256df564"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/a8ff70f3-9b75-4d32-9e68-b587b2472fa2"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/2a612b86-74de-418a-8a1b-31fa8a2d2fd2"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/e6326cf7-2ab6-468e-83e4-0f52e8f41f84"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/dede6f8a-4634-4a61-b538-da51a7c8bfb6"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/39298f86-49cb-49b2-afe0-7ffee1b903e2"/>
 
 
