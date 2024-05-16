@@ -9,7 +9,7 @@ Welcome to my portfolio, a representation of my skills, education, projects, and
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/9243b429-95bb-435c-b11a-22cb80b62540"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/1be04f98-9c41-459a-874f-38e936fbee1f"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/dede6f8a-4634-4a61-b538-da51a7c8bfb6"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/39298f86-49cb-49b2-afe0-7ffee1b903e2"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/ac688337-babd-4f24-8a4a-f963b9412754"/>
 
 
 ## Table of Contents
