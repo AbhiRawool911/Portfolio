@@ -5,9 +5,9 @@ Welcome to my portfolio, a representation of my skills, education, projects, and
 
 ## Highlighted below are some visual aspects of my Portfolio:
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/10983215-b99f-477c-b3a0-d7b246ffe001"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/28d42190-fd01-4aaf-ba64-58af256df564"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/a8ff70f3-9b75-4d32-9e68-b587b2472fa2"/>
-<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/2a612b86-74de-418a-8a1b-31fa8a2d2fd2"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/2f7290d6-9046-4f69-83ad-d22c806127c8"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/9243b429-95bb-435c-b11a-22cb80b62540"/>
+<img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/1be04f98-9c41-459a-874f-38e936fbee1f"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/dede6f8a-4634-4a61-b538-da51a7c8bfb6"/>
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/39298f86-49cb-49b2-afe0-7ffee1b903e2"/>
 
