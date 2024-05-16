@@ -1,7 +1,8 @@
 # My Portfolio
-Welcome to my portfolio, a representation of my skills, education, projects, and experiences in web development.
 
-### Portfolio Link : Visit my portfolio website [here](https://abhishek-rawool.netlify.app) to explore further.
+A representation of my skills, education, projects, and experiences in web development. 
+
+Visit my portfolio website [here](https://abhishek-rawool.netlify.app) to explore further.
 
 ## Highlighted below are some visual aspects of my Portfolio:
 <img width="fit-content;" src="https://github.com/AbhiRawool911/Portfolio/assets/157002044/10983215-b99f-477c-b3a0-d7b246ffe001"/>
