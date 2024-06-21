@@ -126,7 +126,7 @@ export const education = [
     img: "https://i.postimg.cc/dVswNS81/Screenshot-2024-03-14-004139.png",
     school: "KLS Gogte Institute of Technology, Belgaum",
     date: "Jun 2020 - Jun 2024",
-    grade: "6.85 CGPA",
+    grade: "7.11 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Electronics & Communication Engineering at KLS Gogte Institute of Technology, Belgaum.",
     degree:
       "Bachelor of Engineering - BE, Electronics & Communication Engineering",
