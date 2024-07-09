@@ -5,7 +5,7 @@ export const Bio = {
     "I am a driven and flexible individual, always seeking out new challenges. With a deep passion for learning, I am dedicated to consistently delivering top-notch results. With a positive mindset and a commitment to growth, I am prepared to make a meaningful contribution and achieve remarkable success.",
   github: "https://github.com/AbhiRawool911",
   resume:
-    "https://drive.google.com/file/d/1TXygf40hwraZfjMfPPC6HJTRGs3dqo0D/view?usp=sharing",
+    "https://drive.google.com/file/d/1nBa2oldmHnVCeeFuCwQRXDhCxcIr5Zrk/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhishek-rawool/",
   twitter: "https://twitter.com/Abhi91130",
   insta: "https://www.instagram.com/abhi.rawool_xi._?igsh=MXkwZW5wbzh3dHZrOA==",
